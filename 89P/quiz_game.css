@@ -1,0 +1,45 @@
+div{
+    background: rgb(0, 255, 38);
+		float: none;
+		border-radius: 15px;
+        border-style:ridge;
+        border-color: rgb(0, 51, 255);
+        border-width: 40px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 20px;
+        padding-right: 20px;
+
+
+}
+
+input{
+    background-color:turquoise
+}
+
+
+body{
+    background-color: red;
+}
+
+button{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: red;
+    background-color: aqua;
+    border-style:dashed;
+    border-width: 5px;
+    border-color:yellow;
+    border-radius: 20px;
+}
+
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
